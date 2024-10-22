@@ -1,4 +1,4 @@
-#Description of folder
+#Description
 + dataSet
   + density (fold): Dataset selected using density.
   + pc (fold): Dataset selected using packing coefficient.
